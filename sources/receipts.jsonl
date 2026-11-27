@@ -2,3 +2,6 @@
 {"seq":22,"receipt":"k-82","action":"open","object":"copy-c","actor":"keeper-a","status":"completed","performed":21}
 {"seq":26,"receipt":"k-83","action":"restore","object":"copy-d","actor":"keeper-a","status":"unverified","performed":null}
 {"seq":27,"receipt":"k-81","action":"retire","object":"key-11","actor":"custodian-a","status":"pending","performed":null}
+{"seq":29,"receipt":"k-81","action":"retire","object":"key-11","actor":"custodian-a","status":"paused","performed":28}
+{"seq":30,"receipt":"k-84","action":"withdraw-wrapper","object":"w-01","actor":"custodian-a","status":"completed","performed":29}
+{"seq":31,"receipt":"k-85","action":"rebind","object":"copy-d","actor":"custodian-a","status":"received","performed":null}

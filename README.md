@@ -10,7 +10,7 @@
 - `sources/decisions.jsonl`　独立的保全或到期决定。from/until 是保全区间。dispose 表示可启动核查。
 - `sources/operators.jsonl`　由办案机构登记的 actor 当前具有的动作和用途。scope 可为卷宗号或托管的管理权限标识。
 - `sources/wrappers.jsonl`　托管端引用与实际 generation 的映射。同代可包装多份归档，retired 指版本已经退役。
-- `sources/receipts.jsonl`　托管动作的外部回执。object 为副本或代次；received 与 completed 对执行作不同承诺。
+- `sources/receipts.jsonl`　托管动作的外部回执。object 为副本、包装引用或代次。回执区分收件、准备、暂停、明确完成及未核实。rebind 表示改绑包装，withdraw-wrapper 表示单独撤除包装。
 
 ## 查看记录
 
