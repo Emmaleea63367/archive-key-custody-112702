@@ -1,0 +1,7 @@
+{"seq":1,"case":"car-1","revision":2,"copy":"copy-a","location":"primary","wrapper":"w-01","available":true}
+{"seq":2,"case":"car-1","revision":2,"copy":"copy-b","location":"recovery","wrapper":"w-21","available":true}
+{"seq":3,"case":"car-2","revision":1,"copy":"copy-c","location":"primary","wrapper":"w-03","available":true}
+{"seq":4,"case":"car-2","revision":1,"copy":"copy-d","location":"backup","wrapper":"w-27","available":true}
+{"seq":5,"case":"car-3","revision":1,"copy":"copy-e","location":"primary","wrapper":"w-30","available":true}
+{"seq":18,"case":"car-3","revision":1,"copy":"copy-f","location":"disaster-recovery","wrapper":"w-31","available":true}
+{"seq":23,"case":"car-2","revision":1,"copy":"copy-d","location":"backup","wrapper":"w-72","available":false}

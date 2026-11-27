@@ -1,0 +1,5 @@
+{"seq":9,"actor":"keeper-a","scope":"car-2","actions":["open","restore"],"purpose":"legal-hold","from":0,"until":70}
+{"seq":10,"actor":"admin-a","scope":"catalog","actions":["inventory"],"purpose":"administration","from":0,"until":70}
+{"seq":11,"actor":"custodian-a","scope":"key-admin","actions":["rotate","retire"],"purpose":"administration","from":0,"until":70}
+{"seq":12,"actor":"keeper-b","scope":"car-3","actions":["open","restore"],"purpose":"legal-hold","from":15,"until":80}
+{"seq":24,"actor":"keeper-a","scope":"car-2","actions":["open","restore"],"purpose":"legal-hold","from":0,"until":22}

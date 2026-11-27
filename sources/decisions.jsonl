@@ -1,0 +1,4 @@
+{"seq":6,"order":"order-k","case":"car-2","revision":1,"state":"hold","from":0,"until":75}
+{"seq":7,"order":"order-d","case":"car-1","revision":2,"state":"dispose","from":4,"until":null}
+{"seq":8,"order":"order-m","case":"car-3","revision":1,"state":"dispose","from":4,"until":null}
+{"seq":19,"order":"order-n","case":"car-3","revision":1,"state":"hold","from":15,"until":80}
