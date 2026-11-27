@@ -19,5 +19,5 @@
 ```bash
 python3 source_records.py
 python3 source_records.py archives
-python3 -m unittest discover -v
+python3 -m unittest discover -s tests -v
 ```
